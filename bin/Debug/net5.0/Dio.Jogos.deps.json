@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dio.Jogos/1.0.0": {
+        "runtime": {
+          "Dio.Jogos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio.Jogos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
